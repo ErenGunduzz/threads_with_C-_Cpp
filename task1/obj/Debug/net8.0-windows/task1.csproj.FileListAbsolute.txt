@@ -1,0 +1,16 @@
+C:\Users\akine\Desktop\task1\obj\Debug\net8.0-windows\task1.csproj.GenerateResource.cache
+C:\Users\akine\Desktop\task1\obj\Debug\net8.0-windows\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akine\Desktop\task1\obj\Debug\net8.0-windows\task1.AssemblyInfoInputs.cache
+C:\Users\akine\Desktop\task1\obj\Debug\net8.0-windows\task1.AssemblyInfo.cs
+C:\Users\akine\Desktop\task1\obj\Debug\net8.0-windows\task1.csproj.CoreCompileInputs.cache
+C:\Users\akine\Desktop\task1\bin\Debug\net8.0-windows\task1.exe
+C:\Users\akine\Desktop\task1\bin\Debug\net8.0-windows\task1.deps.json
+C:\Users\akine\Desktop\task1\bin\Debug\net8.0-windows\task1.runtimeconfig.json
+C:\Users\akine\Desktop\task1\bin\Debug\net8.0-windows\task1.dll
+C:\Users\akine\Desktop\task1\bin\Debug\net8.0-windows\task1.pdb
+C:\Users\akine\Desktop\task1\obj\Debug\net8.0-windows\task1.dll
+C:\Users\akine\Desktop\task1\obj\Debug\net8.0-windows\refint\task1.dll
+C:\Users\akine\Desktop\task1\obj\Debug\net8.0-windows\task1.pdb
+C:\Users\akine\Desktop\task1\obj\Debug\net8.0-windows\task1.genruntimeconfig.cache
+C:\Users\akine\Desktop\task1\obj\Debug\net8.0-windows\ref\task1.dll
+C:\Users\akine\Desktop\task1\obj\Debug\net8.0-windows\task1.PrimeNums.resources
